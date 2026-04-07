@@ -38,9 +38,9 @@
 
 ### 📈 Статистика и достижения:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evelinafanatka72&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MYASNIK-CG&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelinafanatka72&layout=donut&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYASNIK-CG&layout=donut&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
