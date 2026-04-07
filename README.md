@@ -13,6 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=gnumeterminal&logoColor=white)
+![a-Shell](https://img.shields.io/badge/a--Shell%20Mini-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
